@@ -13,4 +13,4 @@ Here is an example of how the tables look in the HTML file:
 
 ![alt text](https://github.com/Cambuchi/Ticky-Log-Reports/blob/main/table_example.jpg?raw=true)
 
-Created to satisfy the final assessment in Course 2 of 'Google IT Automation with Python Professional Certificate'.
+Created to satisfy the final Qwiklabs assessment in in the coursera course "Using Python to Interact with the Operating System" for Google's IT Automation with Python Professional Certificate.
